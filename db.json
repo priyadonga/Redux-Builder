@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "3195",
+      "name": "priya",
+      "email": "priya@gmail.com",
+      "password": "453"
+    },
+    {
+      "id": "9416",
+      "name": "Rensi",
+      "email": "rensi@gmail.com",
+      "password": "34567"
+    },
+    {
+      "id": "0fc1",
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "a0fb",
+      "name": "user",
+      "email": "user@gmail.com",
+      "password": "4567"
+    }
+  ],
+  "products": [
+    {
+      "id": "6fc3",
+      "productName": "watch",
+      "productImage": "https://imagescdn.thecollective.in/img/app/product/4/463982-3663667.jpg",
+      "price": "2000",
+      "desc": "this is watch",
+      "available": true
+    },
+    {
+      "id": "91ab",
+      "productName": "ring",
+      "productImage": "https://kinclimg7.bluestone.com/f_jpg,c_scale,w_828,q_80,b_rgb:f0f0f0/giproduct/BIDG0086R08_YAA18DIG6XXXXXXXX_ABCD00-PICS-00001-1024-64631.png",
+      "price": "54000",
+      "desc": "ring",
+      "available": true
+    },
+    {
+      "id": "fb25",
+      "productName": "watch",
+      "productImage": "https://imagescdn.thecollective.in/img/app/product/4/463982-3663667.jpg",
+      "price": "1000",
+      "desc": "this is watch",
+      "available": true
+    }
+  ]
+}
