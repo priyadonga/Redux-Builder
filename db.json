@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "c02e",
+      "productName": "ring",
+      "price": "4000",
+      "desc": "this is ring"
+    },
+    {
+      "id": "ef0f",
+      "productName": "watch",
+      "price": "100000",
+      "desc": "this is watch"
+    },
+    {
+      "id": "3b65",
+      "productName": "saree",
+      "price": "4000",
+      "desc": "this is saree"
+    },
+    {
+      "id": "b284",
+      "productName": "mobile",
+      "price": "50000",
+      "desc": "this is mobile"
+    }
+  ]
+}
